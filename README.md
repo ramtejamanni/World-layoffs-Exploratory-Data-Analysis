@@ -76,4 +76,7 @@ To explore, clean, and model layoff data using SQL to:
     
 
 ## 6️⃣ Screenshots / Demos
+![Date Cleaning Preview][Data Cleaning Preview](https://github.com/ramtejamanni/World-layoffs-Exploratory-Data-Analysis/blob/main/data_cleaning_pic.png)
+
+
 
