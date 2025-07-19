@@ -57,21 +57,22 @@ To explore, clean, and model layoff data using SQL to:
   3. Understand how startup stages influence layoff vulnerability
 
 📊 Key Visual & Analytical Highlights
-    📌 Maximum Layoffs Analysis: Identified peak layoffs and companies with 100% workforce cuts
-    
-    🏢 Top Affected Companies: Ranked by total and percentage layoffs
-    
-    🌍 Industry & Country Impact: Analyzed layoffs across industries and geographic locations
-    
-    📅 Time-Based Trends: Grouped by day, month, and year to detect spikes and seasonal changes
-    
-    📈 Rolling Totals: Tracked cumulative monthly layoffs using window functions
-    
-    🚀 Stage-Based Analysis: Revealed which startup funding stages faced the highest layoffs
-    
-    🏆 Top 5 Companies by Year: Used DENSE_RANK() to rank and compare companies annually
-    
-    💼 Business Impact & Insights: Identified critical months and vulnerable sectors, helping HR and policy makers plan for workforce stability
+
+  📌 Maximum Layoffs Analysis: Identified peak layoffs and companies with 100% workforce cuts
+      
+  🏢 Top Affected Companies: Ranked by total and percentage layoffs
+      
+  🌍 Industry & Country Impact: Analyzed layoffs across industries and geographic locations
+      
+  📅 Time-Based Trends: Grouped by day, month, and year to detect spikes and seasonal changes
+      
+  📈 Rolling Totals: Tracked cumulative monthly layoffs using window functions
+      
+  🚀 Stage-Based Analysis: Revealed which startup funding stages faced the highest layoffs
+      
+  🏆 Top 5 Companies by Year: Used DENSE_RANK() to rank and compare companies annually
+      
+  💼 Business Impact & Insights: Identified critical months and vulnerable sectors, helping HR and policy makers plan for workforce stability
 
     
 
