@@ -1,9 +1,12 @@
-1️⃣ Project Title / Headline
+## World_layoffs-Exploratory-Data_Analysis
+
+
+## 1️⃣ Project Title / Headline
 World Layoffs Explorer: Global Workforce Impact Analysis
 An interactive data analysis and visualization project focused on identifying and understanding global layoff trends using SQL and MySQL Workbench. It includes data cleaning, transformation, and exploratory insights across industries, companies, funding stages, and regions.
 
 
-2️⃣ Short Description / Purpose
+## 2️⃣ Short Description / Purpose
 This project involves data cleaning and exploratory data analysis (EDA) on a dataset containing information about layoffs across various companies. The main objectives are to clean the data by removing duplicates, standardizing values, handling nulls, and then performing EDA to uncover insights regarding layoffs by industry, company, and year.
 
 📌 Table of Contents
@@ -17,7 +20,7 @@ This project involves data cleaning and exploratory data analysis (EDA) on a dat
   ➣ Usage
 
 
-3️⃣ Tech Stack
+## 3️⃣ Tech Stack
 The project was built using the following tools and technologies:
 
  ●  MySQL Workbench – Primary interface for managing the database, writing and executing SQL queries, and performing data analysis.
@@ -31,14 +34,14 @@ The project was built using the following tools and technologies:
  ●  Exploratory Data Analysis (EDA) – Conducted various aggregations and breakdowns to analyze layoffs by time, region, industry, and company.
 
 
-4️⃣ Data Source
+## 4️⃣ Data Source
 Source: Kaggle – Layoffs 2023 Dataset
 
 The dataset includes records of layoffs that occurred globally in 2024.
 Key fields: Company, Industry, Total Layoffs, Percentage Laid Off, Location, Date, Stage, Funds Raised, and Employees. It offers a valuable foundation for analyzing layoffs across different dimensions: time, geography, funding stages, and sectors.
 
 
-5️⃣ Features / Highlights
+## 5️⃣ Features / Highlights
 🔍 Business Problem
 From 2020 to 2024, companies worldwide have undergone significant workforce reductions. These layoffs impacted both employees and investors, raising critical questions:
 
@@ -72,5 +75,5 @@ To explore, clean, and model layoff data using SQL to:
 
     
 
-6️⃣ Screenshots / Demos
+## 6️⃣ Screenshots / Demos
 
