@@ -1,4 +1,4 @@
-## World_layoffs-Exploratory-Data_Analysis
+# World_layoffs-Exploratory-Data_Analysis
 
 
 ## 1️⃣ Project Title / Headline
@@ -42,21 +42,21 @@ Key fields: Company, Industry, Total Layoffs, Percentage Laid Off, Location, Dat
 
 
 ## 5️⃣ Features / Highlights
-🔍 Business Problem
+### 🔍 Business Problem
 From 2020 to 2024, companies worldwide have undergone significant workforce reductions. These layoffs impacted both employees and investors, raising critical questions:
 
   1. Which sectors and countries were most affected?
   2. What company stages are more vulnerable?
   3. When did the highest spikes in layoffs occur?
 
-🎯 Project Goal
+### 🎯 Project Goal
 To explore, clean, and model layoff data using SQL to:
 
   1. Identify layoff trends over time
   2. Pinpoint affected companies, countries, and industries
   3. Understand how startup stages influence layoff vulnerability
 
-📊 Key Visual & Analytical Highlights
+### 📊 Key Visual & Analytical Highlights
 
   📌 Maximum Layoffs Analysis: Identified peak layoffs and companies with 100% workforce cuts
       
@@ -72,7 +72,8 @@ To explore, clean, and model layoff data using SQL to:
       
   🏆 Top 5 Companies by Year: Used DENSE_RANK() to rank and compare companies annually
       
-  💼 Business Impact & Insights: Identified critical months and vulnerable sectors, helping HR and policy makers plan for workforce stability
+  ### 💼 Business Impact & Insights:
+  Identified critical months and vulnerable sectors, helping HR and policy makers plan for workforce stability
 
     
 
